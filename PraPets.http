@@ -1,0 +1,6 @@
+@PraPets_HostAddress = http://localhost:5133
+
+GET {{PraPets_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
